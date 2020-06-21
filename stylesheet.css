@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.top-wrapper h1 {
+    opacity: 0.7;
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-bottom: 9px;
+}
+
+.top-wrapper p {
+    opacity: 0.7;
+    margin-bottom: 5px;
+}
+
+.btn-wrapper {
+    margin: 20px 0;
+}
+
+.btn-wrapper p {
+    margin: 10px 0;
+}
+
+.signup {
+    background-color: #239b71;
+    border: 3px solid #3c304;
+    font-family: arial;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px yellow;
+    box-shadow: 0 0 20px rgba(0, 0, 0);
+}
+
+.explore {
+    background-color: #915918;
+    border: 3px solid #3c304;
+    font-family: arial;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px white;
+    box-shadow: 0 0 20px rgba(0, 0, 0);
+    margin-right: 12px;
+}
+
+.destination {
+    background-color: #f41;
+    Border: 3px solid #3c04;
+    font-family: arial;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px white;
+    box-shadow: 0 0 20px rgba(0, 0, 0);
+}
+
+.btn {
+    padding: 12px 24px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    opacity: 0.9;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.fa {
+    margin-right: 5px;
